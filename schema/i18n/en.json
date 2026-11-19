@@ -1,0 +1,4 @@
+{
+  "plugin.linode-dns.name": "Linode",
+  "plugin.linode-dns.description": "ACME DNS-01 via Linode."
+}
